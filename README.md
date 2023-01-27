@@ -4,6 +4,9 @@ Here are some screenshots of the project >
 
 The data is fetched using MySQL, making use of Libraries like : mysql-connector-j-8.0.31 and rs2xml as jar files to give extened features 
 the tool(IDE) used to develop this project is Apache-NetBeans-16-bin-windows-x64, The project is developed in java language. 
+We have also used basic features of Java swing and Java awt keeping the project interactive and light weight.
+
+
 
 ![Screenshot (369)](https://user-images.githubusercontent.com/99798684/215151197-cc1c4e2e-5326-4d44-b1d6-b2f768285eee.png)
 ![Screenshot (370)](https://user-images.githubusercontent.com/99798684/215151203-a0cc6bcc-3d28-4ff4-b2ab-35d36b4eca3b.png)
